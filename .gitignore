@@ -27,5 +27,6 @@ Thumbs.db
 # Virtual environments (if any)
 # ===============================
 venv/
+.venv
 .env/
 
