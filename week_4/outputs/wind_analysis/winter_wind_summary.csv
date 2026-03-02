@@ -1,0 +1,17 @@
+Region,Season,Threshold,Background_WS,Extreme_WS,WindSpeed_Drop_%
+North,Winter,409.25,0.96,0.76,21.23
+North,Post-monsoon,462.0,0.79,0.58,25.66
+North,Pre-monsoon,314.75,1.19,0.99,17.0
+North,Monsoon,160.5,1.14,1.09,4.19
+East,Winter,369.75,0.88,0.65,25.97
+East,Post-monsoon,397.25,0.59,0.49,16.55
+East,Pre-monsoon,267.0,1.25,1.06,14.91
+East,Monsoon,140.5,1.08,0.93,14.24
+South_Central,Winter,328.0,0.95,0.64,32.61
+South_Central,Post-monsoon,335.12,0.76,0.57,24.62
+South_Central,Pre-monsoon,217.5,1.14,0.97,15.4
+South_Central,Monsoon,110.5,1.06,1.08,-1.85
+West_SW,Winter,290.03,0.71,0.49,30.6
+West_SW,Post-monsoon,323.75,0.56,0.41,26.32
+West_SW,Pre-monsoon,211.75,0.91,0.7,23.18
+West_SW,Monsoon,98.4,0.88,0.7,20.92
