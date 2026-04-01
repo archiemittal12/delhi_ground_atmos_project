@@ -4,6 +4,7 @@
 data/raw/
 *.zip
 *.tar.gz
+*.nc
 
 # ===============================
 # Jupyter notebook checkpoints
